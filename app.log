@@ -1,0 +1,224 @@
+2023-12-01T12:18:26.419-05:00  INFO 28716 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 28716 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:18:26.423-05:00  INFO 28716 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:18:26.596-05:00  INFO 28716 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:18:26.597-05:00  INFO 28716 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:18:26.597-05:00  INFO 28716 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:18:26.610-05:00  INFO 28716 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:18:26.610-05:00  INFO 28716 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 184 ms
+2023-12-01T12:18:26.664-05:00  INFO 28716 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:18:26.672-05:00  INFO 28716 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:18:26.677-05:00  INFO 28716 --- [restartedMain] com.jeku.Application                     : Started Application in 0.316 seconds (process running for 51.985)
+2023-12-01T12:18:26.679-05:00  INFO 28716 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:18:27.001-05:00  INFO 28716 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:18:27.010-05:00  INFO 28716 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:18:32.190-05:00  INFO 35580 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 35580 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:18:32.193-05:00  INFO 35580 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:18:32.240-05:00  INFO 35580 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:18:32.240-05:00  INFO 35580 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:18:32.939-05:00  INFO 35580 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:18:32.950-05:00  INFO 35580 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:18:32.966-05:00  INFO 35580 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:18:33.023-05:00  INFO 35580 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:18:33.024-05:00  INFO 35580 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 784 ms
+2023-12-01T12:18:33.276-05:00  INFO 35580 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:18:33.305-05:00  INFO 35580 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:18:33.312-05:00  INFO 35580 --- [restartedMain] com.jeku.Application                     : Started Application in 1.47 seconds (process running for 2.163)
+2023-12-01T12:47:27.520-05:00  INFO 35580 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:47:27.535-05:00  INFO 35580 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:48:50.706-05:00  INFO 25564 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 25564 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:48:50.711-05:00  INFO 25564 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:48:50.757-05:00  INFO 25564 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:48:50.758-05:00  INFO 25564 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:48:51.541-05:00  INFO 25564 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:48:51.550-05:00  INFO 25564 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:48:51.550-05:00  INFO 25564 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:48:51.607-05:00  INFO 25564 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:48:51.609-05:00  INFO 25564 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 849 ms
+2023-12-01T12:48:51.885-05:00  INFO 25564 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:48:51.922-05:00  INFO 25564 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:48:51.933-05:00  INFO 25564 --- [restartedMain] com.jeku.Application                     : Started Application in 1.601 seconds (process running for 2.299)
+2023-12-01T12:49:03.165-05:00  INFO 25564 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:49:03.165-05:00  INFO 25564 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:49:03.167-05:00  INFO 25564 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01T12:49:49.617-05:00  INFO 25564 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:49:49.629-05:00  INFO 25564 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:49:49.630-05:00  INFO 25564 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:49:56.784-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34524 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:49:56.786-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:49:56.840-05:00  INFO 34524 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:49:56.841-05:00  INFO 34524 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:49:57.596-05:00  INFO 34524 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:49:57.606-05:00  INFO 34524 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:49:57.607-05:00  INFO 34524 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:49:57.668-05:00  INFO 34524 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:49:57.669-05:00  INFO 34524 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 828 ms
+2023-12-01T12:49:57.952-05:00  INFO 34524 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:49:57.985-05:00  INFO 34524 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:49:57.992-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : Started Application in 1.565 seconds (process running for 2.243)
+2023-12-01T12:50:05.205-05:00  INFO 34524 --- [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:50:05.206-05:00  INFO 34524 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:50:05.207-05:00  INFO 34524 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01T12:51:12.703-05:00  INFO 34524 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01T12:51:12.736-05:00  INFO 34524 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:51:12.737-05:00  INFO 34524 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:51:12.814-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34524 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:51:12.814-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:51:13.011-05:00  INFO 34524 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:51:13.012-05:00  INFO 34524 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:51:13.012-05:00  INFO 34524 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:51:13.023-05:00  INFO 34524 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:51:13.023-05:00  INFO 34524 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 206 ms
+2023-12-01T12:51:13.088-05:00  INFO 34524 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:51:13.096-05:00  INFO 34524 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:51:13.099-05:00  INFO 34524 --- [restartedMain] com.jeku.Application                     : Started Application in 0.315 seconds (process running for 77.35)
+2023-12-01T12:51:13.102-05:00  INFO 34524 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:51:14.344-05:00  INFO 34524 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:51:14.345-05:00  INFO 34524 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:51:14.346-05:00  INFO 34524 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-01T12:51:28.233-05:00  INFO 34524 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:51:28.247-05:00  INFO 34524 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:51:28.249-05:00  INFO 34524 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:51:32.644-05:00  INFO 49536 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 49536 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:51:32.646-05:00  INFO 49536 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:51:32.692-05:00  INFO 49536 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:51:32.692-05:00  INFO 49536 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:51:33.498-05:00  INFO 49536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:51:33.508-05:00  INFO 49536 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:51:33.508-05:00  INFO 49536 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:51:33.564-05:00  INFO 49536 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:51:33.564-05:00  INFO 49536 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 871 ms
+2023-12-01T12:51:33.824-05:00  INFO 49536 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:51:33.853-05:00  INFO 49536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:51:33.861-05:00  INFO 49536 --- [restartedMain] com.jeku.Application                     : Started Application in 1.556 seconds (process running for 2.213)
+2023-12-01T12:51:40.720-05:00  INFO 49536 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:51:40.720-05:00  INFO 49536 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:51:40.721-05:00  INFO 49536 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01T12:53:09.441-05:00  INFO 49536 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:53:09.474-05:00  INFO 49536 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:53:09.475-05:00  INFO 49536 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:53:24.598-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 3712 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:53:24.602-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:53:24.645-05:00  INFO 3712 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:53:24.645-05:00  INFO 3712 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:53:25.345-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:53:25.354-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:53:25.355-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:53:25.428-05:00  INFO 3712 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:53:25.429-05:00  INFO 3712 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 783 ms
+2023-12-01T12:53:25.692-05:00  INFO 3712 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:53:25.745-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:53:25.755-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Started Application in 1.485 seconds (process running for 2.108)
+2023-12-01T12:53:30.616-05:00  INFO 3712 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:53:30.616-05:00  INFO 3712 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:53:30.617-05:00  INFO 3712 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01T12:55:50.580-05:00  INFO 3712 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01T12:55:50.593-05:00  INFO 3712 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:55:50.594-05:00  INFO 3712 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:55:50.659-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 3712 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:55:50.660-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:55:50.830-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:55:50.831-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:55:50.831-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:55:50.842-05:00  INFO 3712 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:55:50.843-05:00  INFO 3712 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 177 ms
+2023-12-01T12:55:50.895-05:00  INFO 3712 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:55:50.903-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:55:50.907-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Started Application in 0.274 seconds (process running for 147.26)
+2023-12-01T12:55:50.909-05:00  INFO 3712 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:55:53.345-05:00  INFO 3712 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01T12:55:53.371-05:00  INFO 3712 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:55:53.435-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 3712 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:55:53.436-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:55:53.609-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:55:53.610-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:55:53.610-05:00  INFO 3712 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:55:53.648-05:00  INFO 3712 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:55:53.649-05:00  INFO 3712 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 211 ms
+2023-12-01T12:55:53.697-05:00  INFO 3712 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:55:53.705-05:00  INFO 3712 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:55:53.708-05:00  INFO 3712 --- [restartedMain] com.jeku.Application                     : Started Application in 0.29 seconds (process running for 150.061)
+2023-12-01T12:55:53.710-05:00  INFO 3712 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:55:54.312-05:00  INFO 3712 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:55:54.323-05:00  INFO 3712 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:56:01.856-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34784 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:56:01.859-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:56:01.925-05:00  INFO 34784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T12:56:01.925-05:00  INFO 34784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T12:56:02.729-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:56:02.739-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:56:02.740-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:56:02.810-05:00  INFO 34784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:56:02.811-05:00  INFO 34784 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 885 ms
+2023-12-01T12:56:03.076-05:00  INFO 34784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:56:03.130-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:56:03.140-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Started Application in 1.736 seconds (process running for 2.416)
+2023-12-01T12:56:10.040-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:56:10.041-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:56:10.042-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01T12:56:10.065-05:00  INFO 34784 --- [http-nio-8081-exec-1] com.jeku.rest.DemoRestController         : EXecution started
+2023-12-01T12:56:10.065-05:00  INFO 34784 --- [http-nio-8081-exec-1] com.jeku.rest.DemoRestController         : EXecution Ended
+2023-12-01T12:57:38.087-05:00  INFO 34784 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01T12:57:38.102-05:00  INFO 34784 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:57:38.103-05:00  INFO 34784 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:57:38.161-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34784 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:57:38.162-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:57:38.327-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:57:38.327-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:57:38.327-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:57:38.342-05:00  INFO 34784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:57:38.342-05:00  INFO 34784 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 175 ms
+2023-12-01T12:57:38.399-05:00  INFO 34784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:57:38.407-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:57:38.411-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Started Application in 0.27 seconds (process running for 97.687)
+2023-12-01T12:57:38.413-05:00  INFO 34784 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:57:42.862-05:00  INFO 34784 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01T12:57:42.872-05:00  INFO 34784 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:57:42.930-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34784 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:57:42.930-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:57:43.047-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:57:43.047-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:57:43.048-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:57:43.082-05:00  INFO 34784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:57:43.083-05:00  INFO 34784 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 149 ms
+2023-12-01T12:57:43.132-05:00  INFO 34784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:57:43.142-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:57:43.146-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Started Application in 0.234 seconds (process running for 102.422)
+2023-12-01T12:57:43.147-05:00  INFO 34784 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:57:47.594-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01T12:57:47.594-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01T12:57:47.596-05:00  INFO 34784 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-01T12:57:47.598-05:00  INFO 34784 --- [http-nio-8081-exec-1] com.jeku.rest.DemoRestController         : WElcome controller ....EXecution started
+2023-12-01T12:57:47.598-05:00  INFO 34784 --- [http-nio-8081-exec-1] com.jeku.rest.DemoRestController         : WElcome controller .... EXecution Ended
+2023-12-01T12:59:10.406-05:00  INFO 34784 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 4 class path changes (0 additions, 3 deletions, 1 modification)
+2023-12-01T12:59:10.418-05:00  INFO 34784 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T12:59:10.418-05:00  INFO 34784 --- [Thread-11] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01T12:59:10.481-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 34784 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T12:59:10.482-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:59:10.614-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T12:59:10.615-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T12:59:10.615-05:00  INFO 34784 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T12:59:10.631-05:00  INFO 34784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T12:59:10.631-05:00  INFO 34784 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 147 ms
+2023-12-01T12:59:10.693-05:00  INFO 34784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T12:59:10.703-05:00  INFO 34784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T12:59:10.706-05:00  INFO 34784 --- [restartedMain] com.jeku.Application                     : Started Application in 0.25 seconds (process running for 189.982)
+2023-12-01T12:59:10.707-05:00  INFO 34784 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01T12:59:14.633-05:00  INFO 34784 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T12:59:14.645-05:00  INFO 34784 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T13:02:36.186-05:00  INFO 48492 --- [restartedMain] com.jeku.Application                     : Starting Application using Java 17.0.8.1 with PID 48492 (C:\Users\dhava\eclipse-workspace\36_Logging-1\target\classes started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T13:02:36.190-05:00  INFO 48492 --- [restartedMain] com.jeku.Application                     : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T13:02:36.237-05:00  INFO 48492 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-01T13:02:36.237-05:00  INFO 48492 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-01T13:02:36.989-05:00  INFO 48492 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-01T13:02:36.998-05:00  INFO 48492 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01T13:02:36.998-05:00  INFO 48492 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01T13:02:37.080-05:00  INFO 48492 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-01T13:02:37.081-05:00  INFO 48492 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 843 ms
+2023-12-01T13:02:37.377-05:00  INFO 48492 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01T13:02:37.434-05:00  INFO 48492 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-12-01T13:02:37.445-05:00  INFO 48492 --- [restartedMain] com.jeku.Application                     : Started Application in 1.626 seconds (process running for 2.313)
+2023-12-01T13:02:40.200-05:00  INFO 48492 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-01T13:02:40.222-05:00  INFO 48492 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01T13:05:34.491-05:00  INFO 46280 --- [main] com.jeku.ApplicationTests                : Starting ApplicationTests using Java 17.0.8.1 with PID 46280 (started by dhava in C:\Users\dhava\eclipse-workspace\36_Logging-1)
+2023-12-01T13:05:34.495-05:00  INFO 46280 --- [main] com.jeku.ApplicationTests                : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T13:05:36.333-05:00  INFO 46280 --- [main] com.jeku.ApplicationTests                : Started ApplicationTests in 2.387 seconds (process running for 4.52)
